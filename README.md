@@ -1,4 +1,3 @@
-# TheCodingexpo
 window.requestAnimFrame = (function () {
     return (
         window.requestAnimationFrame ||
